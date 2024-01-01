@@ -1,4 +1,8 @@
 my name is abhi
 new line added
 NEwAgain created and switched
+<<<<<<< HEAD
+adddddddd
+=======
 one more added
+>>>>>>> 3c6ae5ba9774d0a22e0c90fc649d211ef10ebeca
